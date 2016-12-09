@@ -3,6 +3,7 @@ title: ICMP
 date: 2016-12-02 13:54:19
 categories: net
 tags: net
+description: "ICMP全称：Internet Control Message Protocol 翻译过来就是网际控制报文协议。目的是有效的转发IP数据报和提高交付成功的机会。ICMP不是高层协议，是IP层的协议。ICMP报文作为IP数据报的数据，加上数据报的首部组成IP数据报发送出去"
 ---
 ## ICMP概念
 ICMP全称：Internet Control Message Protocol 翻译过来就是网际控制报文协议。目的是有效的转发IP数据报和提高交付成功的机会。ICMP不是高层协议，是IP层的协议。ICMP报文作为IP数据报的数据，加上数据报的首部组成IP数据报发送出去

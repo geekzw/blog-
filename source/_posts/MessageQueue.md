@@ -3,6 +3,7 @@ title: MessageQueue
 date: 2016-11-01 16:36:38
 categories: android
 tags: handler
+description: "MessageQueue的作用是操作message，因为message本身就是链表结构，所以MessageQueue不必用LinkList之类的数据结构存储msg。只需要持有一个message实例就行了。此方法中有许多native方法，不过多分析。主要分析几个关键的方法，有助于理解MessageQueue是如何管理msg的。"
 ---
 ## 概述
 MessageQueue的作用是操作message，因为message本身就是链表结构，所以MessageQueue不必用LinkList之类的数据结构存储msg。只需要持有一个message实例就行了。此方法中有许多native方法，不过多分析。主要分析几个关键的方法，有助于理解MessageQueue是如何管理msg的。

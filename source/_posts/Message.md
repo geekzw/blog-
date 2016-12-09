@@ -3,6 +3,7 @@ title: Message
 date: 2016-11-01 15:10:26
 categories: android
 tags: handler
+description: "message作为消息的载体，主要看下它是如何保存信息的"
 ---
 #### Message类关键属性
 ![message属性][1]

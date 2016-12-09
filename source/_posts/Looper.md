@@ -3,6 +3,7 @@ title: Looper
 date: 2016-11-01 16:41:40
 categories: android
 tags: handler
+description: "Looper这个类的主要功能是做消息的分发，并没有很复杂的逻辑"
 ---
 ## 概述
 Looper这个类的主要功能是做消息的分发，并没有很复杂的逻辑

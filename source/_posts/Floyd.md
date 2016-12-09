@@ -3,6 +3,7 @@ title: Floyd
 date: 2016-12-09 12:36:29
 categories: algorithm
 tags: algorithm
+description: "Floyd-Warshall算法（Floyd-Warshall algorithm）是解决任意两点间的最短路径的一种算法，可以正确处理有向图或负权的最短路径问题"
 ---
 ## Floyd概述
 Floyd-Warshall算法（Floyd-Warshall algorithm）是解决任意两点间的最短路径的一种算法，可以正确处理有向图或负权的最短路径问题

@@ -3,6 +3,7 @@ title: 深入理解Handler
 date: 2016-11-01 16:43:27
 categories: android
 tags: handler
+description: "handler是发送消息和最终处理消息的类。从发送消息的方式看，有两种，一种是handler.post(Runnable)，另一种是handler.sendMessage()。"
 ---
 ## 关联类
 ### <font color="#47C4EA">[Message](https://geekzw.github.io/2016/11/01/Message/index.html)</font>

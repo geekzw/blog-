@@ -3,6 +3,7 @@ title: Dijkstra
 date: 2016-12-08 10:46:37
 categories: algorithm
 tags: algorithm
+description: "Dijkstra解决的是单源最短路径问题，也就是图中某个点到其他任意点的最短路径，权值要求是正值。"
 ---
 
 ## 废话
